@@ -1,0 +1,33 @@
+.App {
+  color: black;
+  text-align: center;
+}
+.quiz{
+  color: rgb(26, 198, 26);
+}
+.result{
+  background-color: rgb(26, 198, 26);
+  color: white;
+}
+.questions{
+  background-color: rgb(26, 198, 26);
+  color: white;
+}
+
+.options1{
+  display: inline;
+  width: 20%;
+}
+
+.key{
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 50px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 30px;
+  color: white;
+  background-color:  rgb(68, 214, 68);
+    border: 2px solid  rgb(26, 198, 26);
+}
